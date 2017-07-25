@@ -1,8 +1,8 @@
-Discord Bots Sheet
-=====================
+# Discord Bots Sheet
 
 
-### Coding Lounge *(ID: 161637499939192832)* ###
+Coding Lounge *(ID: 161637499939192832)*
+------
 
 Avatar | Name | Ersteller | Repo | Sprache | Präfix
 ------ | ----------|---------|--------------------------------------|------|-------------
@@ -11,7 +11,14 @@ Avatar | Name | Ersteller | Repo | Sprache | Präfix
 ![](https://cdn.discordapp.com/avatars/270931284489011202/b7b1f9820c4751ffa3d0e11c97bc2f38.png?size=64) | Sora | Serenity#0783 | [Serenity / SoraBot](http://git.argus.moe/serenity/SoraBot) | C# | `$`, einstellbar ([Command List](http://git.argus.moe/serenity/SoraBot#dynamic-prefix))
 ![](https://cdn.discordapp.com/avatars/155149108183695360/5aeb68c29b56b3d92eddb6f46df5051c.png?size=64) | Awesome (Dyno) | NoobLance#3500 | Nicht Open-Source | ? | `?`, einstellbar ([Command List](https://www.dynobot.net/commands))
 
-### Kokoro-Ko *(ID: 102817255661772800)* ###
+**Inaktiv**
+
+Avatar | Name | Ersteller | Repo | Sprache | Präfix
+------ | ----------|---------|--------------------------------------|------|-------------
+![](https://cdn.discordapp.com/avatars/260867076774821899/2dda452db1e35f833a187df9dd4f1749.png?size=64) | Nep | Serraniel#8978 | [Serraniel/Nep-Bot](https://github.com/Serraniel/Nep-Bot) | C# | ?
+
+Kokoro-Ko *(ID: 102817255661772800)*
+------
 
 Avatar | Name | Ersteller | Repo | Sprache | Präfix
 ------ | ----------|---------|--------------------------------------|------|-------------
