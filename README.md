@@ -26,6 +26,14 @@ Avatar | Name | Ersteller | Repo | Sprache | Präfix
 ![](https://cdn.discordapp.com/avatars/204966267147255808/b5df40517522683f4c7bbf13ae1c4c41.png?size=64) | Eddy-Test (Shinobu) | Der-Eddy#6508 | [Der-Eddy/discord_bot](https://github.com/Der-Eddy/discord_bot) | Python | `;` ([Command List](https://github.com/Der-Eddy/discord_bot#commands-list))
 ![](https://cdn.discordapp.com/avatars/268554005888761859/537beac017e11feacbbfe58ac585dc0d.png?size=64) | Nadeko++ (Nadeko) | Kwoth#2560 | [Kwoth/NadekoBot](https://github.com/Kwoth/NadekoBot) | C# | `.` ([Command List](http://nadekobot.readthedocs.io/en/latest/Commands%20List/))
 
+wshbr - Community *(ID: 247830763649761282)*
+------
+
+Avatar | Name | Ersteller | Repo | Sprache | Präfix
+------ | ----------|---------|--------------------------------------|------|-------------
+![](https://cdn.discordapp.com/avatars/268554005888761859/537beac017e11feacbbfe58ac585dc0d.png?size=64) | Nadeko++ (Nadeko) | Kwoth#2560 | [Kwoth/NadekoBot](https://github.com/Kwoth/NadekoBot) | C# | `.` ([Command List](http://nadekobot.readthedocs.io/en/latest/Commands%20List/))
+![](https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=64) | Tatsumaki | David#7699 | Nicht (mehr) Open-Source | Javascript | `t!`, `t@` ([Command List](https://www.tatsumaki.xyz/commands.html))
+
 ### Pull Requests ###
 Dein Bot fehlt? Einfach eine Pull Request erstellen.
 
