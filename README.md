@@ -32,7 +32,7 @@ wshbr - Community *(ID: 247830763649761282)*
 Avatar | Name | Ersteller | Repo | Sprache | Präfix
 ------ | ----------|---------|--------------------------------------|------|-------------
 ![](https://cdn.discordapp.com/avatars/268554005888761859/537beac017e11feacbbfe58ac585dc0d.png?size=64) | Nadeko++ (Nadeko) | Kwoth#2560 | [Kwoth/NadekoBot](https://github.com/Kwoth/NadekoBot) | C# | `.` ([Command List](http://nadekobot.readthedocs.io/en/latest/Commands%20List/))
-![](https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=64) | Tatsumaki | David#7699 | Nicht (mehr) Open-Source | Javascript | `t!`, `t@` ([Command List](https://www.tatsumaki.xyz/commands.html))
+![](https://cdn.discordapp.com/avatars/172002275412279296/f5f65755f67ae1dc88d9bb271d0f5bef.png?size=64) | Tatsumaki | David#7699 | [Nicht (mehr) Open-Source](https://github.com/davidlimjh/TatsuBot) | Javascript | `t!`, `t@` ([Command List](https://www.tatsumaki.xyz/commands.html))
 
 ### Pull Requests ###
 Dein Bot fehlt? Einfach eine Pull Request erstellen.
